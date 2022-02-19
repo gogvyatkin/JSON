@@ -1,4 +1,10 @@
 {
-
+	"favorite" :
+	{
+	"movie" : "not",
+	"series" : "not",
+	"season" : "all"
+	},
+	"coutry you would like to visit" : "Japan"
 
 }
